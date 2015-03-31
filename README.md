@@ -1,3 +1,7 @@
+# Moved to Tideways/php-profiler-extension
+
+Work on this repository has moved to [tideways/php-profiler-extension](https://github.com/tideways/php-profiler-extension). This repository is kept only for backwards compatibility reasons.
+
 # Qafoo Profiler PHP Extension
 
 The Profiler extension contains functions for finding performance bottlenecks
